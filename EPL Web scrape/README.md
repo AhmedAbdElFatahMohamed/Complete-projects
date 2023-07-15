@@ -1,15 +1,16 @@
 # Project Overview
 
-In this project, we'll predict the winner of football matches in the English Premier League (EPL).  
+In this project, we'll scrape the data of football matches in the English Premier League (EPL).  
 
 **Project Steps**
 
 * Scrape match data using requests, BeautifulSoup, and pandas.  
-* Clean the data and get it ready for machine learning using pandas.
+* Clean the data and output it to CSV file.
 
 File overview:
 
 * `Football.py` - a python file that scrapes our data.
+* `matches.csv` - a csv file that contains the final result.
 
 # Local Setup
 
